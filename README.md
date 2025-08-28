@@ -29,9 +29,6 @@ Command-Line-Calculator/
 
 ### Using GCC:
 
-- ```sh
-
-  ```
 - gcc calculator.c -o calculator
 
 ### Run the program:
